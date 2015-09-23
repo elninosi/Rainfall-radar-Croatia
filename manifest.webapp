@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0",
+  "name": "Rainfall radar: Croatia",
+  "description": "Radar image of rainfall in Croatia",
+  "launch_path": "/index.html",
+  "icons": {
+    "48": "/img/icons/icon48x48.png",
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "elnino.si",
+    "url": "http://elnino.si"
+  },
+  "locales": {
+    "en": {
+      "name": "Rainfall radar: Croatia",
+      "description": "Radar image of rainfall in Croatia"
+    },
+      "sl": {
+      "name": "Radarska slika padavin: Hrvaška",
+      "description": "Radarska slika padavin na območju Hrvaške"
+    },
+      "hr": {
+      "name": "Radarska slika oborina: Hrvatska",
+      "description": "Radarska slika oborina u Hrvatskoj"
+    }
+     
+  },
+  "default_locale": "hr"
+}
